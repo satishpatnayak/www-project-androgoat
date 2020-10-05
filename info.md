@@ -6,12 +6,11 @@
 * [Breaker](#)
 
 ### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+* [Download](#) https://github.com/satishpatnayak/MyTest/blob/master/AndroGoat.apk
 
 ### Code Repository
-* [repo](#)
+* [repo](#) https://github.com/satishpatnayak/AndroGoat
 
 ### Change Log
-* [changes](#)
+* [changes](#) 
 
